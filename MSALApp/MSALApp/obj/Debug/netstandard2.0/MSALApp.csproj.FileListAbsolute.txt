@@ -1,0 +1,14 @@
+C:\Users\1027539\Documents\Coding\Xamarin\MSALApp\MSALApp\MSALApp\bin\Debug\netstandard2.0\MSALApp.deps.json
+C:\Users\1027539\Documents\Coding\Xamarin\MSALApp\MSALApp\MSALApp\bin\Debug\netstandard2.0\MSALApp.dll
+C:\Users\1027539\Documents\Coding\Xamarin\MSALApp\MSALApp\MSALApp\bin\Debug\netstandard2.0\ref\MSALApp.dll
+C:\Users\1027539\Documents\Coding\Xamarin\MSALApp\MSALApp\MSALApp\bin\Debug\netstandard2.0\MSALApp.pdb
+C:\Users\1027539\Documents\Coding\Xamarin\MSALApp\MSALApp\MSALApp\obj\Debug\netstandard2.0\MSALApp.csprojAssemblyReference.cache
+C:\Users\1027539\Documents\Coding\Xamarin\MSALApp\MSALApp\MSALApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\1027539\Documents\Coding\Xamarin\MSALApp\MSALApp\MSALApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\1027539\Documents\Coding\Xamarin\MSALApp\MSALApp\MSALApp\obj\Debug\netstandard2.0\MSALApp.AssemblyInfoInputs.cache
+C:\Users\1027539\Documents\Coding\Xamarin\MSALApp\MSALApp\MSALApp\obj\Debug\netstandard2.0\MSALApp.AssemblyInfo.cs
+C:\Users\1027539\Documents\Coding\Xamarin\MSALApp\MSALApp\MSALApp\obj\Debug\netstandard2.0\MSALApp.csproj.CoreCompileInputs.cache
+C:\Users\1027539\Documents\Coding\Xamarin\MSALApp\MSALApp\MSALApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\1027539\Documents\Coding\Xamarin\MSALApp\MSALApp\MSALApp\obj\Debug\netstandard2.0\MSALApp.dll
+C:\Users\1027539\Documents\Coding\Xamarin\MSALApp\MSALApp\MSALApp\obj\Debug\netstandard2.0\ref\MSALApp.dll
+C:\Users\1027539\Documents\Coding\Xamarin\MSALApp\MSALApp\MSALApp\obj\Debug\netstandard2.0\MSALApp.pdb
